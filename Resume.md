@@ -5,7 +5,7 @@ Knoxville, TN | <a href="mailto:treavorcjohnson@gmail.com">treavorcjohnson@gmail
 
 ## Summary
 
-Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](#denso-manufacturing-maryville-tn), specializing in industrial automation, distributed systems, and manufacturing process optimization. Proficient in programming languages (`Go`, `Python`, `JavaScript`) and industrial controllers (Omron, Allen Bradley, Fanuc). Led capital projects worth over **$2M**, implemented systems handling **2.7 PB** of data, and programmed [**400+ machines**](#denso-manufacturing-maryville-tn) for data collection across seven production lines. Experience managing technical systems and managing projects with local and abroad peers. [Mechanical Engineering degree](#education) with minors in Materials Science, Reliability Engineering, and Engineering Entrepreneurship.
+Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](#denso-manufacturing-maryville-tn), specializing in industrial automation, distributed systems, and manufacturing process optimization. Proficient in programming languages (`Go`, `Python`, `JavaScript`) and industrial controllers (Omron, Allen Bradley, Fanuc). Led capital projects worth over **$2M**, implemented systems handling [**2.7 PB** of data](#distributed-data-collection--storage-system), and programmed [**400+ machines**](#denso-manufacturing-maryville-tn) for data collection across seven production lines. Experience managing technical systems and managing projects with local and abroad peers. [Mechanical Engineering degree](#education) with minors in Materials Science, Reliability Engineering, and Engineering Entrepreneurship.
 
 ## Skills
 
@@ -42,9 +42,15 @@ Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](
 - Create over **50 CNC programs** for aluminum machining and steel turning
 - Manage network systems for industrial infrastructure and global connectivity
 - Create agentic tools for automation and intelligent decision-making within Denso operations
-- Manage **2.7 PB** total storage for image retention across 13 manufacturing lines
+- Collaborate with Japan headquarters to improve and standardize global data collection systems across international manufacturing facilities
 
 #### Key Technical Projects:
+
+##### Distributed Data Collection & Storage System
+
+- Architect and build distributed data collection systems for industrial equipment using `Go` with visualization using `JavaScript`, `HTML`, `CSS`, `HTMX`, and `Templ` hosted with `Kubernetes`
+- Built centralized cluster architecture with custom `RAFT` consensus protocol and `FSM` implementation for reliable file/data replication to long-term storage
+- System handles **2.7 PB** total storage with reliable data replication across cluster nodes
 
 ##### Casting Data Collection Platform
 
