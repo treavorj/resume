@@ -5,14 +5,14 @@ Knoxville, TN | <a href="mailto:treavorcjohnson@gmail.com">treavorcjohnson@gmail
 
 ## Summary
 
-Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](#denso-manufacturing-maryville-tn), specializing in industrial automation, distributed systems, and manufacturing process optimization. Proficient in programming languages (`Go`, `Python`, `JavaScript`) and industrial controllers (Omron, Allen Bradley, Fanuc). [Led capital projects](#autonomous-mobile-robot-amr-system) worth over **$3M**, implemented systems handling **2.8 PB** of data, and programmed [**400+ machines**](#denso-manufacturing-maryville-tn) for data collection across seven production lines. Experience managing technical systems and managing projects with local and abroad peers. [Honors Mechanical Engineering degree](#education) with minors in Materials Science, Reliability Engineering, and Engineering Entrepreneurship.
+Engineering Specialist with **9+ years** of experience at [Denso Manufacturing](#denso-manufacturing-maryville-tn), specializing in industrial automation, distributed systems, and manufacturing process optimization. Proficient in programming languages (`Go`, `Python`, `JavaScript`) and industrial controllers (Omron, Allen Bradley, Fanuc). [Led capital projects](#autonomous-mobile-robot-amr-system) worth over **$3M**, implemented systems handling **2.8 PB** of data, and programmed [**400+ machines**](#denso-manufacturing-maryville-tn) for data collection across seven production lines. Experience managing technical systems, managing projects with local and abroad peers, and setting strategic direction for multiple campuses of manufacturing. [Honors Mechanical Engineering degree](#education) with minors in Materials Science, Reliability Engineering, and Engineering Entrepreneurship.
 
 ## Skills
 
 - **Programming Languages:** Go, Python, JavaScript, HTML, CSS, MATLAB, SQL, Dart SASS
 - **Web Frameworks & Tools:** HTMX, Templ, Kibana, D3.js, Grafana, Vega, React, Angular
 - **Databases & Storage:** SQLite, Postgres, ElasticSearch, Surreal
-- **DevOps & Infrastructure:** Network Management, Docker, Podman, Kubernetes, RAFT, Casbin, Gitlab CI/CD, OTEL, Ignition
+- **DevOps & Infrastructure:** Network Management, Docker, Podman, Kubernetes, RAFT, Casbin, Gitlab CI/CD, OTEL, HA Proxy
 - **Operating Systems:** Linux, Windows, Container Creation
 - **Industrial Controllers:** Omron Sysmac, Omron CJ, Allen Bradley RSLogix, Allen Bradley MicroLogix, Fanuc PMC, Brother PMC, Okuma PMC
 - **Vision Systems:** Custom computer vision, Keyence XGX/IV/IX, Cognex
@@ -25,8 +25,9 @@ Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](
 
 ### Denso Manufacturing Maryville, TN
 
-**Advanced Engineering Specialist (E3)** | May 2017 – Present
+**Principal Engineer (E4)** | May 2017 – Present
 
+- Create strategy for North American Autonomous Manufacturing
 - Program and set up SCADA systems for over **400+ machines** across seven lines
 - Optimize Allen Bradley, Omron Sysmac, and Omron CJ PLC programming for cycle time and readability
 - Lead multiple projects from initial design review through implementation worth over **$2M**
@@ -40,6 +41,8 @@ Engineering Specialist with **8+ years** of experience at [Denso Manufacturing](
 - Manage **2.8 PB** total storage for image retention across 13 manufacturing lines
 - Create and improve process documentation for various products/processes including pressing, machining, assembly, welding, vision, and more
 - Develop and manage quality system for tracking all part and attribute masters across the facility
+- Design and implement new racks for hosting software/applications
+- Manage network traffic across complex mostly isolated networks for **15** production lines
 
 #### Key Technical Projects:
 
@@ -83,7 +86,7 @@ _Project Management:_
 - Hosted weekly project update meetings with all stakeholders including senior management and production line leadership
 - Successfully realized **15** headcount reduction
 
-##### New Line Installation
+##### End Frame Line Installation
 
 - Successfully started up **$1M** End Frame Machining Line from conception to full production capable of **180,000** frames per month
 - Implemented all project phases including: Process Design Plan, Feasibility Study, Specification Writing, Quoting, Design Reviews, Procurement, and Final Release
